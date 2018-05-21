@@ -1,24 +1,11 @@
-# README
+# Cadastro de Currículo - Básico (Exemplo)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Básico de cadastro de um currículo utilizando Rails + Vue.js.
 
-Things you may want to cover:
+### Ferramentas Utilizadas
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby On Rails 5.2
+- Vue.js
+- Bulma
+- Yarn
+- Linux Mint 18.3
